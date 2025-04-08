@@ -139,8 +139,3 @@ print("Accuracy:", accuracy_score(y_test, preds))
 - 🚀 Boosting → XGBoost / AdaBoost (good for accuracy and hard cases)
 - 🧩 Stacking → Combines **different types** of models.
 
-They’re super useful and widely used in **Kaggle competitions**, production models, and academic work.
-
----
-
-If you’re curious, I can even help you build an ensemble for one of your past projects (like churn prediction, resume screening, or sign language detection). Want to try that out?
